@@ -1,10 +1,10 @@
 def linear_search(arr, target):
     for i in range(len(arr)):
         if arr[i] == target:
-            return i  # Return the index where the target element is found
-    return -1  # Return -1 if the target element is not in the list
+            return i  
+    return -1  
 
-# Example usage:
+
 my_list=[]
 n=int(input("Enter the Range:"))
 
