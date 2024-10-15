@@ -10,9 +10,9 @@ def leaders(n, arr):
                 
         return leaders[::-1]
 
-n=int(input("Enter the Array Size:"))
+n=int(input("Enter the Array Size : "))
 arr=[]
-print("Enter the Array Elements:")
+print("Enter the Array Elements : ")
 
 for i in range(n):
      arr.append(int(input()))
