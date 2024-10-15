@@ -7,6 +7,6 @@ str1 = input("String 1 : ")
 str2 = input("String 2 : ")
 print("Is Anagram : ", isAnagram(str1,str2))
 
-# String 1 : HariHaran
-# String 2 : HaranHari
+# String 1 : HariHaranS
+# String 2 : HaranHariS
 # Is Anagram :  True
